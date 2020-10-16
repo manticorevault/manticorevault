@@ -1,7 +1,6 @@
 <h2> Hey there! I'm Artur!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- Currently based in Brejo Grande, Brazil
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Cybersecurity at FIAP.
 - 💼 &nbsp; Working as a Freelance Software Developer.
