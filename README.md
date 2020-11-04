@@ -37,6 +37,10 @@
 
 <br/>
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <a href="https://github.com/manticorevault">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manticorevault&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manticorevault&theme=buefy&layout=compact" />
