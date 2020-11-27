@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Cybersecurity Graduate at FIAP.
 - 💼 &nbsp; Working as a Freelance Software Developer.
-- 🌱 &nbsp; Learning more about Blockchain/Smart Contracts Development, DevSecOps and Web App Pentesting. 
+- 🌱 &nbsp; Learning more about Blockchain/Smart Contract's Development, DevSecOps and Web App Pentesting. 
 - ✍️ &nbsp;  You'll find me hiking, kayaking, cooking or learning new (natural) languages in my free time! (:
 - :triangular_flag_on_post:  &nbsp; Currently based in Brejo Grande, Brazil
 
