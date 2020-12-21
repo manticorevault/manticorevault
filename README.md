@@ -37,6 +37,7 @@
 
 <br/>
 
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Power of DAOs](https://dev.to/manticorevault/the-power-of-daos-26f2)
