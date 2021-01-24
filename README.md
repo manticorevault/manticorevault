@@ -24,7 +24,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 - 🖵 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=for-the-badge&logo=tailwind&logoColor=0000ff)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=0000ff)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 - 🐋 &nbsp;
