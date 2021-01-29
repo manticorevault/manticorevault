@@ -28,6 +28,7 @@
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 - 🐋 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=Kubernetes)
 - ⚙️ &nbsp;
