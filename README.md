@@ -47,6 +47,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - ToolsRUs WriteUp](https://dev.to/manticorevault/tryhackme-toolsrus-writeup-10da)
 - [The Power of DAOs](https://dev.to/manticorevault/the-power-of-daos-26f2)
 - [Understanding SHA256](https://dev.to/manticorevault/understanding-sha256-3f08)
 - [HackTheBox Write-Ups - Lame](https://dev.to/manticorevault/hackthebox-write-ups-lame-49c)
