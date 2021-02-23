@@ -47,11 +47,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introdution to Networks - A TryHackMe Introductory Networking WriteUp](https://dev.to/manticorevault/an-introdution-to-networks-2gll)
 - [Resources to get you started in Cybersecurity (for free).](https://dev.to/manticorevault/resources-to-get-you-started-in-cybersecurity-for-free-327o)
 - [TryHackMe - ToolsRUs WriteUp](https://dev.to/manticorevault/tryhackme-toolsrus-writeup-10da)
 - [The Power of DAOs](https://dev.to/manticorevault/the-power-of-daos-26f2)
 - [Understanding SHA256](https://dev.to/manticorevault/understanding-sha256-3f08)
-- [HackTheBox Write-Ups - Lame](https://dev.to/manticorevault/hackthebox-write-ups-lame-49c)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/manticorevault">
