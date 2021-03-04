@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Cybersecurity at FIAP.
-- 💼 &nbsp; Working as a Freelance Software Developer.
-- 🌱 &nbsp; Learning more about Blockchain/Smart Contracts Development, DevSecOps and Web App Pentesting. 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Cybersecurity Graduate and MBA in Cybersecurity Student at FIAP.
+- 💼 &nbsp; Working as a Freelance Software Engineer.
+- 🌱 &nbsp; Learning more about Blockchain/Smart Contract Development, Social FinTechs, DevSecOps and Web App Pentesting. 
 - ✍️ &nbsp;  You'll find me hiking, kayaking, cooking or learning new (natural) languages in my free time! (:
-- :triangular_flag_on_post:  &nbsp; Currently based in Brejo Grande, Brazil
+- :triangular_flag_on_post:  &nbsp; Currently based in Brejo Grande, Brazil.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -18,12 +18,19 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=ethereum)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+- 🖵 &nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=0000ff)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+- 🐋 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=Kubernetes)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
@@ -37,8 +44,14 @@
 
 <br/>
 
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introdution to Networks - A TryHackMe Introductory Networking WriteUp](https://dev.to/manticorevault/an-introdution-to-networks-2gll)
+- [Resources to get you started in Cybersecurity (for free).](https://dev.to/manticorevault/resources-to-get-you-started-in-cybersecurity-for-free-327o)
+- [TryHackMe - ToolsRUs WriteUp](https://dev.to/manticorevault/tryhackme-toolsrus-writeup-10da)
+- [The Power of DAOs](https://dev.to/manticorevault/the-power-of-daos-26f2)
+- [Understanding SHA256](https://dev.to/manticorevault/understanding-sha256-3f08)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/manticorevault">
