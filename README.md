@@ -3,11 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Cybersecurity Graduate and MBA in Cybersecurity Student at FIAP
+- 🎓 &nbsp; Cybersecurity Graduate and MBA in Cybersecurity Student at FIAP.
 - 💼 &nbsp; Working as a Freelance Software Engineer.
 - 🌱 &nbsp; Learning more about Blockchain/Smart Contract Development, Social FinTechs, DevSecOps and Web App Pentesting. 
 - ✍️ &nbsp;  You'll find me hiking, kayaking, cooking or learning new (natural) languages in my free time! (:
-- :triangular_flag_on_post:  &nbsp; Currently based in Brejo Grande, Brazil
+- :triangular_flag_on_post:  &nbsp; Currently based in Brejo Grande, Brazil.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
