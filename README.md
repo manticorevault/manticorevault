@@ -47,11 +47,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write-up: KodeKloud Sysadmin (Set or Change System's Timezone in Linux)](https://dev.to/arturserra/write-up-kodekloud-sysadmin-set-or-change-system-s-timezone-in-linux-2791)
 - [Write-up: KodeKloud Sysadmin (Create a Non-interactive Shell)](https://dev.to/arturserra/write-up-kodekloud-sysadmin-create-a-non-interactive-shell-1lfg)
 - [Getting started with Penetration Testing and building your own pentest methodology.](https://dev.to/arturserra/getting-started-with-penetration-testing-and-building-your-own-pentest-methodology-498a)
 - [An Introdution to Networks - A TryHackMe Introductory Networking WriteUp](https://dev.to/arturserra/an-introdution-to-networks-2gll)
 - [Resources to get you started in Cybersecurity (for free).](https://dev.to/arturserra/resources-to-get-you-started-in-cybersecurity-for-free-327o)
-- [TryHackMe - ToolsRUs WriteUp](https://dev.to/arturserra/tryhackme-toolsrus-writeup-10da)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/manticorevault">
