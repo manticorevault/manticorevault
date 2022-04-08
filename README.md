@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as a Web Developer for DigitalNINJA
 - 🌱 &nbsp; Learning more about Blockchain/Smart Contract Development, Social FinTechs, DevSecOps and Web App Pentesting. 
 - ✍️ &nbsp;  You'll find me hiking, kayaking, cooking or learning new (natural) languages in my free time! (:
-- :triangular_flag_on_post:  &nbsp; Currently based in Dubai, UAE.
+- :triangular_flag_on_post:  &nbsp; Currently based in Tbilisi, Georgia.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
