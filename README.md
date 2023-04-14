@@ -1,4 +1,4 @@
-![artur serra's logo the name written in white with an yellow stylizied a in the middle](https://media-exp1.licdn.com/dms/image/C5616AQE2g7mDLd3Qlg/profile-displaybackgroundimage-shrink_350_1400/0/1614910181892?e=1658361600&v=beta&t=JDx3mPyNK71xZ4Tx-wibWA2ljLXE5GfNbH90GaHlptk)
+![artur serra](https://lundysul.sirv.com/arturprofile-PhotoRoom.png-PhotoRoom_nobg.png" width="3616" height="5120" alt="")
 
 
 # 💫 About Me :
