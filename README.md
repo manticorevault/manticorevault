@@ -1,4 +1,4 @@
-![artur serra](https://lundysul.sirv.com/profile580)
+![artur serra](https://lundysul.sirv.com/backup.png)
 
 
 # 💫 About Me :
