@@ -1,4 +1,4 @@
-![artur serra](https://lundysul.sirv.com/arturprofile-PhotoRoom.png-PhotoRoom_nobg.png)
+![artur serra](https://lundysul.sirv.com/profile580)
 
 
 # 💫 About Me :
