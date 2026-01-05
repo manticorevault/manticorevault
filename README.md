@@ -4,10 +4,10 @@
 # 💫 About Me :
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Cybersecurity Graduate and MBA in Cybersecurity Student at FIAP.
-- 💼 &nbsp; Fullstack Web/Blockchain Developer
-- 🌱 &nbsp; Learning more about Blockchain/Smart Contract Development, Social FinTechs, DevSecOps and AppSec. 
+- 💼 &nbsp; Fullstack Web/AI Engineer
+- 🌱 &nbsp; Learning more about AI Engineering, Agentic Systems, DevSecOps and AppSec. 
 - ✍️ &nbsp;  You'll find me hiking, kayaking, cooking or learning new (natural) languages/practicing martial arts in my free time! (:
-- 🇧🇷 &nbsp; Currently based in Sergipe, Brasil.
+- 🇧🇷 &nbsp; Currently based in Lisbon, Portugal.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-serra/) 
